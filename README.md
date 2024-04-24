@@ -107,6 +107,7 @@
 46. [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 47. [Hands-on Train and Deploy ML](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - Train and Deploy a Serverless API to predict crypto prices.
 48. [Hands-on LLMS](https://github.com/iusztinpaul/hands-on-llms) - Hands-on LLMOps: Train and deploy a real-time financial advisor chatbot.
+49. [LLMOps: Building Real-World Applications With Large Language Models](Building Real-World Applications With Large Language Models) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
 
 ### Videos and Lectures
 
